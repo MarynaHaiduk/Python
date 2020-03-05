@@ -1,4 +1,4 @@
-### Python3 Solutions
+### Python3 solutions
 
 https://www.hackerrank.com/maryna_h
 
