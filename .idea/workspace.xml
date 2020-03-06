@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98cd59-e8d6-4761-a882-60bbff28f458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays and Lists/majority_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception Handling/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception Handling/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank Solutions/day0_hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank Solutions/day16_exceptions_string_to_integer .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank Solutions/day1_data_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank Solutions/day2_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank Solutions/day3_intro_to_conditional_statements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank Solutions/day5_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank Solutions/introduction_to_sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/lambda_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode Solutions/169_Majority_Element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/lambda_numbers_operations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/lambda_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/lambda_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +85,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math and Numbers/_math_methods.py" />
+      <option name="SCRIPT_NAME" value="E:\_DEV_GIT\GIT\Python\Built-In Functions\_math_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583340163981</updated>
-      <workItem from="1583340288794" duration="41426000" />
+      <workItem from="1583340288794" duration="43538000" />
     </task>
     <servers />
   </component>
